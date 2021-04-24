@@ -1,2 +1,2 @@
 added new file to remote depository
-working locally after cloning
+working locally after cloning and about to commit and push it back
